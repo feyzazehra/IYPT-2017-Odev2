@@ -57,7 +57,6 @@ KAYNAKÇA
 9) http://kit.ilyam.org/FDD_2015_IYPT_Reference_kit.pdf
 10) http://solutions.iypt.org/uploads/2015_RU_Wet_and_dark_Nikita_Grushetsky_Maria_Mukhina_Egor_Shamanov_1441073708.pdf
 11) http://www.sypt.ch/images/downloads/2015/BookletSYPT2015.pdf
-12) http://solutions.iypt.org/uploads/2015_RU_Wet_and_dark_Nikita_Grushetsky_Maria_Mukhina_Egor_Shamanov_1441073708.pdf
 
 # Materyal ve Yöntem (Experimental Setup)
 ÇALIŞMA YÖNTEMİMİZ
